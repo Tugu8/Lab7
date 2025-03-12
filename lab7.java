@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 
-public class NotificationsSettings {
+public class lab7 {
     public static void main(String[] args) {
         // Create the frame
         JFrame frame = new JFrame("Notifications and Activity");
